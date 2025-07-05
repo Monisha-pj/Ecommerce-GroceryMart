@@ -7,6 +7,19 @@ A fully responsive and modern **e-commerce grocery store** web application built
 
  [demo.mp4](output/demo_grocery.mp4)
 
+###  Screenshots
+
+####  Home Page
+![Home Page](output/homepage.png)
+
+####  Category Page
+![Home Page](output/categorypage.png)
+
+####  Wishlist
+![Wishlist Page](output/wishlistpage.png)
+
+#### Cart Page
+![Cart Page](output/cartpage.png)
 
 ###  Features
 
