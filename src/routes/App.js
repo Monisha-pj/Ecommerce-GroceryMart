@@ -48,7 +48,7 @@
 // export default App;
 
 
-import React from "react";
+//import React from "react";
 import { HashRouter as Router, Routes, Route } from "react-router-dom"; // <-- change here
 import { StoreProvider } from "../context/StoreContext";
 import Navbar from "../components/Navbar";
